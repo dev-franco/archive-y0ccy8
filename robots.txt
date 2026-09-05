@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dev-franco.github.io/archive-y0ccy8/sitemap.xml
